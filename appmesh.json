@@ -1,0 +1,10 @@
+{
+  "source": "https://docs.aws.amazon.com/general/latest/gr/rande.html#appmesh_region",
+  "endpoints": {
+    {
+      "name": "US East (Ohio)",
+      "region": "us-east-2",
+      "endpoint": "appmesh.us-east-2.amazonaws.com",
+      "protocol": "HTTPS"
+    }
+  }
